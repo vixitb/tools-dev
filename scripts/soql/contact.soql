@@ -1,0 +1,16 @@
+/**
+ * @description       : 
+ * @author            : VIXIT BHARDWAJ
+ * @group             : 
+ * @last modified on  : 09-24-2020
+ * @last modified by  : VIXIT BHARDWAJ
+ * Modifications Log 
+ * Ver   Date         Author           Modification
+ * 1.0   09-24-2020   VIXIT BHARDWAJ   Initial Version
+**/
+// Use .soql files to store SOQL queries.
+// You can execute queries in VS Code by selecting the
+//     query text and running the command:
+//     SFDX: Execute SOQL Query with Currently Selected Text
+
+SELECT ID, FirstName, LastName FROM Contact
